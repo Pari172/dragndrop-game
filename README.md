@@ -1,3 +1,4 @@
+![DragDrop](https://github.com/Pari172/dragndrop-game/assets/126306728/2a136bef-c116-4341-b39a-7e10652a2749)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
