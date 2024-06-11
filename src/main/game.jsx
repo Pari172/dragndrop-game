@@ -113,7 +113,7 @@ export function Game() {
           </div>
         </div>
         <div className="flex bg-lime-500">
-          <h3 className="w-40 p-6 font-sans font-bold">Mar Kyu Nahi Jate 🤡</h3>
+          <h3 className="w-40 p-6 font-sans font-bold">mar jao kutto 🤡</h3>
           <div className="flex dragable bg-lime-800 w-full border-l-2 border-black" onDragOver={(e)=>handleDragOver(e)} onDrop={(e)=>handleDrop(e,'mar')}>
             {mar.map((item,index) => (
               <div className=" bg-gray-200 rounded font-semibold text-lg  px-2 py-1 w-28 m-4" key={index}>
